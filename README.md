@@ -8,7 +8,7 @@ For example, I could map the 'a' key to 'á' to easily type in accents. I could 
 
 The default mappings are as follows:
 
-`
+```
 a:á
 e:é
 i:í
@@ -29,7 +29,7 @@ p:π
 c:©
 =:≈
 $:€
-`
+```
 
 The user may change, add, and remove mappings.
 
